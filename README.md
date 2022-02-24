@@ -1,7 +1,7 @@
 <h2> Hi guys 👋 I’m Beatriz</h2>
 
  - I’m looking to collaborate helping other people and also be helped in the face of new  programming languages;<br>
- - I am currently learning database programming and studying for the third semester in Information Systems;<br>
+ - I am currently learning database programming and studying Information Systems;<br>
  - I am a student of Information System, this profile will be for my projects developed by me, using different languages, programming or markup path.<br>
  
 
