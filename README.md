@@ -17,16 +17,16 @@
   <a href="https://instagram.com/a_justoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:beatrisjusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-justo-20b343203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img align="right" alt="bj-pic" height="200" style="border-radius:150x;"  src="https://user-images.githubusercontent.com/88691821/155412009-19f2fdc2-9b9c-4467-9d95-83c076e149a7.png">
+   <img align="right" alt="bj-pic" height="280"  src="https://user-images.githubusercontent.com/88691821/155432817-9ec064cb-4592-412c-867a-391df9226b32.png">
    
 </div>
 
   #
  
-
-
  <h4 style="top:200px;">We can do everything we dream and desire, we just need to believe!</h4>
 
- 
+
+
+
 
 
