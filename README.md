@@ -1,8 +1,8 @@
 <h2> Hi guys 👋 I’m Beatriz</h2>
 
-
-I’m looking to collaborate helping other people and also be helped in the face of new  programming languages, I am currently learning database programming and studying Information Systems;<br>
-I'm looking for an opportunity in the job market, whether it's an internship in IT or a developer trainne 
+- I'm 18 years old and I study Information Systems, at the moment I'm learning database programming(using Mysql)<br>
+- I seek to collaborate helping other people and I also want to be helped with new programming languages or project tips<br>
+- I'm looking for an opportunity in the job market, whether it's an IT internship or developer treinee
  
 
  <div align="center">
