@@ -1,11 +1,10 @@
 <h2> Hi guys 👋 I’m Beatriz</h2>
 
- - I’m looking to collaborate helping other people and also be helped in the face of new  programming languages;<br>
- - I am currently learning database programming and studying Information Systems;<br>
- - I am a student of Information System, this profile will be for my projects developed by me, using different languages, programming or markup path.<br>
+
+I’m looking to collaborate helping other people and also be helped in the face of new  programming languages, I am currently learning database programming and studying Information Systems;<br>
+I'm looking for an opportunity in the job market, whether it's an internship in IT or a developer trainne 
  
 
- 
  <div align="center">
   <a href:"https://github.com/bjustoo">
   <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=bjustoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +16,7 @@
   <a href="https://instagram.com/a_justoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:beatrisjusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-justo-20b343203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img align="right" alt="bj-pic" height="280"  src="https://user-images.githubusercontent.com/88691821/155432817-9ec064cb-4592-412c-867a-391df9226b32.png">
+   <img align="right" alt="bj-pic" height="180"  src="https://user-images.githubusercontent.com/88691821/155432817-9ec064cb-4592-412c-867a-391df9226b32.png">
    
 </div>
 
