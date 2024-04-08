@@ -1,6 +1,6 @@
 <h2> Hi guys 👋 I’m Beatriz</h2>
 
-- I'm 18 years old and I study Information Systems, at the moment I'm learning database programming(using Mysql)<br>
+- I'm 20 years old and I study Information Systems<br>
 - I seek to collaborate helping other people and I also want to be helped with new programming languages and project tips<br>
 - I'm looking for an opportunity in the job market, whether it's an IT internship or developer treinee<br>
  
